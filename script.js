@@ -35,6 +35,11 @@ const captions = [
   { name: "Joey Sanchirico" },
   { name: "Evan Sommerfeld" },
   { name: "Adrienne Vogel" },
+  { name: "Hinata Abe" },
+  { name: "Quin Lawrence" },
+  { name: "Lorna Harris" },
+  { name: "Ashley Marie Pickett" },
+  { name: "Ursula Bakken" },
 ];
 
 function updateSlide() {
