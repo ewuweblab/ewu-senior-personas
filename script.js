@@ -23,7 +23,7 @@ const captions = [
   { name: "Davin Long" },
   { name: "Duachee Lor" },
   { name: "Tely Lor" },
-  { name: "Kalina" },
+  { name: "Kalina Massey-Delgadillo" },
   { name: "Kyle Millican" },
   { name: "Marlena Mizzoni" },
   { name: "Sage Norton" },
