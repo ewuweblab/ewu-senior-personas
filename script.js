@@ -9,11 +9,32 @@ const totalSlides = slides.length;
 
 // Caption data
 const captions = [
-  { name: "Alex Morgan" },
-  { name: "Jordan Lee" },
-  { name: "Riley Chen" },
-  { name: "Taylor Smith" },
-  { name: "Casey Jordan" }
+  { name: "Emily Beer" },
+  { name: "Cassandra Borders" },
+  { name: "Adina Burrow" },
+  { name: "Antoni Carlson" },
+  { name: "Emmy Elvidge" },
+  { name: "Jaedyn Ferreira" },
+  { name: "Castiel Goss" },
+  { name: "Hannah Green" },
+  { name: "Travis Hodges" },
+  { name: "Drew Kazanis" },
+  { name: "Hannah Liss" },
+  { name: "Davin Long" },
+  { name: "Duachee Lor" },
+  { name: "Tely Lor" },
+  { name: "Kalina" },
+  { name: "Kyle Millican" },
+  { name: "Marlena Mizzoni" },
+  { name: "Sage Norton" },
+  { name: "Alexander Quiroz" },
+  { name: "Keith Raugust" },
+  { name: "Shannon Root" },
+  { name: "Dawson Rubino" },
+  { name: "Shantell Rushing" },
+  { name: "Joey Sanchirico" },
+  { name: "Evan Sommerfeld" },
+  { name: "Adrienne Vogel" },
 ];
 
 function updateSlide() {
